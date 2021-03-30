@@ -2,6 +2,7 @@
 
 This is a "Real Time" location of a random public bus in Boston, Massachusetts.
 
+![RealTimeBusTracker1](https://user-images.githubusercontent.com/76454035/112937401-d414ac80-90e4-11eb-89fd-14a2f0eda130.png)
 
 
 I used MBTA's API to get the real time location of the public bus and also the Mapbox API for the map.
